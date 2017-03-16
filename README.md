@@ -6,3 +6,5 @@ I am learning jQuery in my three-month internship
 4. jQuery遍历和选择
 5. jQuery ajax序列化表单值
 6. Clipboard对象
+7. 文字换行
+8. 悬浮对话框popover
