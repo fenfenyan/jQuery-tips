@@ -8,3 +8,6 @@ I am learning jQuery in my three-month internship
 6. Clipboard对象
 7. 文字换行
 8. 悬浮对话框popover
+9. 如何让div能获取焦点
+10. CSS样式优先级别
+11. 浏览器默认样式
